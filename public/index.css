@@ -25,6 +25,7 @@
 
 .nav-link-active {
   background: #320059;
+  font-weight: bold;
 }
 
 .pet-type-label {
@@ -131,7 +132,7 @@ body {
 
 * {
   box-sizing: border-box;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 .pet h3 {
